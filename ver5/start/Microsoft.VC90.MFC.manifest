@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1">
+  <noInheritable/>
+  <assemblyIdentity name="Microsoft.VC90.MFC" processorArchitecture="x86" publicKeyToken="1fc8b3b9a1e18e3b" type="win32" version="9.0.30729.7523"/>
+  <file hash="b6d7b33ad2135de70e95323fdceb063a1c820c4c" hashalg="SHA1" name="mfc90.dll"/>
+  <file hash="9fc29a632b57310957f8f615aa2a936eee8e12f3" hashalg="SHA1" name="mfc90u.dll"/>
+  <file hash="21284ede6ecf170b9cce99de5185c5d80c88a078" hashalg="SHA1" name="mfcm90.dll"/>
+  <file hash="3a0e6e604313e25b2c87c73a30bd25afb8c7f57f" hashalg="SHA1" name="mfcm90u.dll"/>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>
+      <supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/>
+      <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/>
+      <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>
+      <supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/>
+    </application>
+  </compatibility>
+</assembly>

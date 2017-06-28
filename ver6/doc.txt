@@ -1,0 +1,6 @@
+2017年6月25日
+
+加入游戏开始、死亡界面
+#pygame.diplay.flip()不能被if限制
+技能能放多次
+#区分了key.get_pressed()[K_x]和event.key == K_x
